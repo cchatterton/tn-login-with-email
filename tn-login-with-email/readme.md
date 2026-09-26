@@ -30,3 +30,7 @@ Updates are delivered through public GitHub releases and appear in WordPress's n
 
 GPL-2.0-or-later.
 
+
+## Controller integration — 1.0.1
+
+Remove independent GitHub update checks and delegate updates to Techn Update Controller. Keep Beta readiness and existing feature settings, package identity and domain restrictions. Previous standalone GitHub update instructions are superseded.

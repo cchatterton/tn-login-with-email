@@ -20,3 +20,7 @@ scripts/build-plugin-zip.sh
 
 The ZIP is written to `dist/tn-login-with-email.zip` and copied to the repository root. GitHub releases use a matching `vX.Y.Z` tag and include that ZIP as an asset.
 
+
+## Controller integration — 1.0.1
+
+Remove independent GitHub update checks and delegate updates to Techn Update Controller. Keep Beta readiness and existing feature settings, package identity and domain restrictions. Previous standalone GitHub update instructions are superseded.
